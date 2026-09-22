@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZBdwjZGZPpJPeki11Rlt">
-    <mxGraphModel dx="2103" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Tasks" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="645" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=14;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;- Who creates this?&lt;/div&gt;&lt;div&gt;- Owned by one team, but multi-team effort?&lt;/div&gt;" vertex="1">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;- Who creates this?&lt;/div&gt;&lt;div&gt;- Owned by one team, but multi-team effort?&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="110" x="50" y="140" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;Should be completed for the quarter&lt;/div&gt;" vertex="1">
@@ -93,7 +93,7 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-29" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" value="status" vertex="1">
           <mxGeometry height="20" width="50" x="245" y="705" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-30" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=28;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Who decides this?" vertex="1">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-30" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Who decides this?" vertex="1">
           <mxGeometry height="110" width="110" x="690" y="220" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-31" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SW Integration Team&lt;/h1&gt;" vertex="1">
@@ -159,7 +159,7 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Decide which tasks we &quot;Won&#39;t Do&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-72" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=21;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Only these show up in backlog?" vertex="1">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-72" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Only these show up in backlog?" vertex="1">
           <mxGeometry height="110" width="110" x="50" y="620" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Each Core Product group presents &lt;b&gt;rough draft&lt;/b&gt; of Initiatives and Epic Rollups" vertex="1">
@@ -177,7 +177,7 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Core Product" vertex="1">
           <mxGeometry height="60" width="120" x="2065.5" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-80" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=28;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Should I go to this?" vertex="1">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-80" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Should I go to this?" vertex="1">
           <mxGeometry height="110" width="110" x="1150" y="565" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-81" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prep #2 (across teams)&lt;/h1&gt;" vertex="1">
@@ -240,16 +240,13 @@
         <mxCell id="ey5a9xbi_anSFvVqYWU8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" value="Create possible Epics to fit into each Epic Rollup" vertex="1">
           <mxGeometry height="60" width="120" x="1055" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-3" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=15;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Start communicating with them what they need from us" vertex="1">
-          <mxGeometry height="110" width="110" x="2180" y="290" as="geometry" />
-        </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-20" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="TODO" vertex="1">
-          <mxGeometry height="120" width="160" x="1760" y="335" as="geometry" />
+          <mxGeometry height="140" width="160" x="1760" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-21" parent="ey5a9xbi_anSFvVqYWU8-20" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;- Get admin permissions to Jira sprints&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="160" y="50" as="geometry" />
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-21" parent="ey5a9xbi_anSFvVqYWU8-20" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;b&gt;Mike&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Give Kristen admin permissions to Jira sprints&lt;/div&gt;&lt;div&gt;- reach out to data and C3&lt;/div&gt;&amp;nbsp;leads" vertex="1">
+          <mxGeometry height="90" width="160" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-22" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=21;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="&quot;All AutoDrive Plan View&quot;?" vertex="1">
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-22" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="&quot;All AutoDrive Plan View&quot;?" vertex="1">
           <mxGeometry height="110" width="110" x="370" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-23" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Week before PI Planning meetings" vertex="1">
@@ -272,6 +269,9 @@
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;br&gt;- Priority&lt;br&gt;- Acceptance Criteria&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="340" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-43" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Should I go to this?" vertex="1">
+          <mxGeometry height="110" width="110" x="1305" y="945" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
