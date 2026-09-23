@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="ZBdwjZGZPpJPeki11Rlt">
-    <mxGraphModel dx="1123" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Overview" id="ZBdwjZGZPpJPeki11Rlt">
+    <mxGraphModel dx="1123" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry height="440" width="670" x="950" y="85" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="220" width="625" x="1813" y="90" as="geometry" />
+          <mxGeometry height="220" width="587" x="1813" y="90" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-5" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mmipfUOUC6IQO1tqShxn-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -54,8 +54,8 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Tasks" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="645" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;- Who creates this?&lt;/div&gt;&lt;div&gt;- Owned by one team, but multi-team effort?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="50" y="140" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=#b85450;fillStyle=solid;fontSize=12;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Owned by core product, but multi-team effort (Hannah will create)" vertex="1">
+          <mxGeometry height="80" width="100" x="70" y="155" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;Should be completed for the quarter&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="80" x="90" y="485" as="geometry" />
@@ -66,8 +66,8 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-11" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Jira Ticket Organization&lt;/h1&gt;" vertex="1">
           <mxGeometry height="50" width="310" x="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Plan View Roadmap&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="40" width="180" x="60" y="90" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&quot;Capabilities Tracker&quot; Plan View Roadmap&lt;/h1&gt;&lt;div&gt;Capabilities Tracker&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="380" x="60" y="90" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-23" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;fontSize=15;" value="&lt;div&gt;Timeline&lt;/div&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
@@ -103,16 +103,16 @@
           <mxGeometry height="60" width="120" x="1850" y="220" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="C3" vertex="1">
-          <mxGeometry height="60" width="120" x="2065" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="1980" y="220" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Data" vertex="1">
-          <mxGeometry height="60" width="120" x="2280" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="2110" y="220" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-42" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PI Planning Meetings&lt;/h1&gt;" vertex="1">
           <mxGeometry height="50" width="260" x="980" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-43" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PI Planning Meeting #1 (leads only)&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="40" width="320" x="980" y="525" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-43" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PI Planning Meeting #1 (leads and scrum masters only)&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="980" y="525" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-50" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prep #1 (with team)&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="980" y="85" as="geometry" />
@@ -120,29 +120,23 @@
         <mxCell id="ey5a9xbi_anSFvVqYWU8-41" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mmipfUOUC6IQO1tqShxn-53" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Create rough outline of Epic Rollups for the next quarter(s)" vertex="1">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Create rough outline of Epics for the next quarter(s)" vertex="1">
           <mxGeometry height="70" width="155" x="977.5" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-56" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mmipfUOUC6IQO1tqShxn-54">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-70" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mmipfUOUC6IQO1tqShxn-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-70" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mmipfUOUC6IQO1tqShxn-64">
+        <mxCell id="cw-Kubar-Rasl9zJca1w-2" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cw-Kubar-Rasl9zJca1w-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-12" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ey5a9xbi_anSFvVqYWU8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;div&gt;Meet with team&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1180" y="135" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-2" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ey5a9xbi_anSFvVqYWU8-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" value="Create rough draft of Epic Rollups" vertex="1">
-          <mxGeometry height="60" width="120" x="1055" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create possible Tasks we foresee in the near future" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="355" as="geometry" />
-        </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-63" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=12;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;- Get broad estimates (ex. % time we will spend)&lt;/div&gt;&lt;div&gt;- Don&#39;t need to estimate everything&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="930" y="285" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create possible Tasks we foresee in the near future and start putting them into Epics" vertex="1">
+          <mxGeometry height="80" width="135" x="1200" y="355" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-68" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mmipfUOUC6IQO1tqShxn-55">
           <mxGeometry relative="1" as="geometry" />
@@ -153,17 +147,14 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;" value="Refine backlog" vertex="1">
           <mxGeometry height="60" width="120" x="1280" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-66" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="1040" y="230" as="geometry" />
-        </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Decide which tasks we &quot;Won&#39;t Do&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="355" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-72" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Only these show up in backlog?" vertex="1">
           <mxGeometry height="110" width="110" x="50" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Each Core Product group presents &lt;b&gt;rough draft&lt;/b&gt; of Initiatives and Epic Rollups" vertex="1">
-          <mxGeometry height="80" width="160" x="975" y="580" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Each Core Product group presents &lt;b&gt;rough draft of Initiatives, Epic Rollups, and Epics&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="975" y="575" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-75" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mmipfUOUC6IQO1tqShxn-34">
           <mxGeometry relative="1" as="geometry" />
@@ -174,26 +165,26 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-77" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mmipfUOUC6IQO1tqShxn-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Core Product" vertex="1">
-          <mxGeometry height="60" width="120" x="2065.5" y="120" as="geometry" />
+        <mxCell id="cw-Kubar-Rasl9zJca1w-5" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cw-Kubar-Rasl9zJca1w-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-80" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Should I go to this?" vertex="1">
-          <mxGeometry height="110" width="110" x="1150" y="565" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Core Product" vertex="1">
+          <mxGeometry height="60" width="120" x="2040" y="125" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-81" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prep #2 (across teams)&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="220" x="980" y="685" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-83" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PI Planning Meeting #2 (leads only)&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="40" width="310" x="980" y="925" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-83" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PI Planning Meeting #2 (leads and scrum masters only)&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="980" y="925" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Each Core Product group presents &lt;b&gt;final draft&lt;/b&gt; of Epic Rollups and Epics" vertex="1">
+        <mxCell id="mmipfUOUC6IQO1tqShxn-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Each Core Product group presents &lt;b&gt;final draft of Epic Rollups and Epics&lt;/b&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="980" y="975" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-91" edge="1" parent="1" source="mmipfUOUC6IQO1tqShxn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mmipfUOUC6IQO1tqShxn-90" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" value="Finalize Epic Rollups" vertex="1">
-          <mxGeometry height="60" width="120" x="980" y="735" as="geometry" />
+        <mxCell id="mmipfUOUC6IQO1tqShxn-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;" value="Gather input from other teams on any changes to Epic Rollups or Epics" vertex="1">
+          <mxGeometry height="80" width="135" x="980" y="725" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-88" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Next quarter starts the sprint after PI Planning" vertex="1">
           <mxGeometry height="80" width="80" x="1450" y="960" as="geometry" />
@@ -210,17 +201,11 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" value="Finalize Epics to fit into each Epic Rollup" vertex="1">
           <mxGeometry height="70" width="135" x="1172.5" y="825" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-94" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="960" y="715" as="geometry" />
-        </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-95" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1160" y="805" as="geometry" />
         </mxCell>
-        <mxCell id="mmipfUOUC6IQO1tqShxn-96" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="May be asked to change plans from other teams" vertex="1">
-          <mxGeometry height="70" width="80" x="1000" y="805" as="geometry" />
-        </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-102" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Use sticky notes we created from off-site" vertex="1">
-          <mxGeometry height="80" width="80" x="1220" y="430" as="geometry" />
+          <mxGeometry height="80" width="80" x="1230" y="430" as="geometry" />
         </mxCell>
         <mxCell id="mmipfUOUC6IQO1tqShxn-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="9/28/2026" vertex="1">
           <mxGeometry height="30" width="60" x="1550" y="530" as="geometry" />
@@ -237,41 +222,326 @@
         <mxCell id="mmipfUOUC6IQO1tqShxn-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" value="Create Tasks to fit into each Epic" vertex="1">
           <mxGeometry height="60" width="120" x="1355" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" value="Create possible Epics to fit into each Epic Rollup" vertex="1">
-          <mxGeometry height="60" width="120" x="1055" y="355" as="geometry" />
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Create rough draft of Epics to fit into each Epic Rollup" vertex="1">
+          <mxGeometry height="60" width="120" x="1075" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-20" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="TODO" vertex="1">
-          <mxGeometry height="140" width="160" x="1760" y="355" as="geometry" />
+          <mxGeometry height="240" width="220" x="1760" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-21" parent="ey5a9xbi_anSFvVqYWU8-20" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;b&gt;Mike&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Give Kristen admin permissions to Jira sprints&lt;/div&gt;&lt;div&gt;- reach out to data and C3&lt;/div&gt;&amp;nbsp;leads" vertex="1">
-          <mxGeometry height="90" width="160" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-22" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="&quot;All AutoDrive Plan View&quot;?" vertex="1">
-          <mxGeometry height="110" width="110" x="370" y="20" as="geometry" />
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-21" parent="ey5a9xbi_anSFvVqYWU8-20" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;b&gt;Mike&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Give Kristen admin permissions to Jira sprints&lt;/div&gt;&lt;div&gt;- reach out to data and C3&lt;/div&gt;&lt;div&gt;&amp;nbsp;leads&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="220" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-23" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Week before PI Planning meetings" vertex="1">
           <mxGeometry height="70" width="80" x="1525" y="120" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-24" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=12;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Invite Hannah" vertex="1">
-          <mxGeometry height="50" width="50" x="1305" y="100" as="geometry" />
+          <mxGeometry height="50" width="50" x="1230" y="80" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-25" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=12;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Invite Hannah" vertex="1">
           <mxGeometry height="50" width="50" x="1310" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Problem Statement&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Why&amp;nbsp;It&#39;s Important&lt;br&gt;- Priority&lt;br&gt;- Acceptance Criteria&lt;div&gt;- Target End&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Risks&lt;br&gt;- Unknowns&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="135" x="340" y="295" as="geometry" />
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Problem Statement&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Why&amp;nbsp;It&#39;s Important&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- In Scope&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Out of Scope&lt;br&gt;- Acceptance Criteria&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div&gt;- Definition of Done&lt;/div&gt;&lt;div&gt;- Priority&lt;/div&gt;&lt;div&gt;- Target End&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Risks&lt;br&gt;- Unknowns&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="135" x="340" y="245" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Title: &amp;lt;year&amp;gt;&amp;lt;quarter&amp;gt; SW INT - &amp;lt;title&amp;gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="340" y="165" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Problem Statement&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Why&amp;nbsp;It&#39;s Important&lt;br&gt;- Priority&lt;br&gt;- Acceptance Criteria&lt;br&gt;- Risks&lt;br&gt;- Unknowns&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="135" x="340" y="455" as="geometry" />
+        <mxCell id="ey5a9xbi_anSFvVqYWU8-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Problem Statement&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Why&amp;nbsp;It&#39;s Important&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- In Scope&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Out of Scope&lt;br&gt;- Acceptance Criteria&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div&gt;- Definition of Done&lt;/div&gt;&lt;div&gt;- Priority&lt;/div&gt;&lt;div&gt;- Target End&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Risks&lt;br&gt;- Unknowns&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="135" x="340" y="445" as="geometry" />
         </mxCell>
         <mxCell id="ey5a9xbi_anSFvVqYWU8-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;br&gt;- Priority&lt;br&gt;- Acceptance Criteria&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="340" y="645" as="geometry" />
         </mxCell>
-        <mxCell id="ey5a9xbi_anSFvVqYWU8-43" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Should I go to this?" vertex="1">
-          <mxGeometry height="110" width="110" x="1305" y="945" as="geometry" />
+        <mxCell id="cw-Kubar-Rasl9zJca1w-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Add to Anne&#39;s slides" vertex="1">
+          <mxGeometry height="60" width="120" x="1350" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=light-dark(#2e3436, #ededed);" value="Devops" vertex="1">
+          <mxGeometry height="60" width="120" x="2240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-6" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Create over two quarters (Q4/Q1)" vertex="1">
+          <mxGeometry height="70" width="80" x="1095" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=11;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Aligns with Forterra pillars (Hannah will create)" vertex="1">
+          <mxGeometry height="70" width="80" x="490" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;fontSize=17;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" value="Future: Integration move out of AutoDrive Jira project" vertex="1">
+          <mxGeometry height="110" width="110" x="690" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=none;shadow=1;size=20;pointerEvents=1;" value="Statement with what will be delivered" vertex="1">
+          <mxGeometry height="70" width="80" x="500" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="mmipfUOUC6IQO1tqShxn-66" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1060" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="cw-Kubar-Rasl9zJca1w-11" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=10;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Assume Epic Rollups already created (by Hannah)" vertex="1">
+          <mxGeometry height="70" width="80" x="920" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mmipfUOUC6IQO1tqShxn-63" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=12;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;- Get broad estimates (ex. % time we will spend)&lt;/div&gt;&lt;div&gt;- Don&#39;t need to estimate everything&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="970" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i2Kne-IzsptonO5KOfsA" name="26Q4-27Q1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="44mo6zbzRI6MbfJoYps9-1" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-2" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Initiative" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-4" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-5" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="44mo6zbzRI6MbfJoYps9-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="Epic Rollups" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-7" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-8" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Epics" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-10" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Tasks" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Problem Statement&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Why&amp;nbsp;It&#39;s Important&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- In Scope&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Out of Scope&lt;br&gt;- Acceptance Criteria&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div&gt;- Definition of Done&lt;/div&gt;&lt;div&gt;- Priority&lt;/div&gt;&lt;div&gt;- Target End&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Risks&lt;br&gt;- Unknowns&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="135" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Title: &amp;lt;year&amp;gt;&amp;lt;quarter&amp;gt; SW INT - &amp;lt;title&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Problem Statement&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Why&amp;nbsp;It&#39;s Important&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- In Scope&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Out of Scope&lt;br&gt;- Acceptance Criteria&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div&gt;- Definition of Done&lt;/div&gt;&lt;div&gt;- Priority&lt;/div&gt;&lt;div&gt;- Target End&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Risks&lt;br&gt;- Unknowns&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="135" x="220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;- Title&lt;br&gt;- Priority&lt;br&gt;- Acceptance Criteria&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="220" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-25" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44mo6zbzRI6MbfJoYps9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-26" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44mo6zbzRI6MbfJoYps9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-27" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44mo6zbzRI6MbfJoYps9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-28" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44mo6zbzRI6MbfJoYps9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Q4 2026 + Q1 2027 - CORE" vertex="1">
+          <mxGeometry height="60" width="210" x="1345" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-36" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44mo6zbzRI6MbfJoYps9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;AD 26Q4 + 27Q1 - Deliver World-Class Product Value&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="460" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-1" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-2" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-4" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;AD 26Q4 + 27Q1 - Enable rapid vehicle integration, build, and deployment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="950" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-3" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;AD 26Q4 + 27Q1 - Innovate &amp;amp; Iterate Rapidly&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="1650" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-5" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="44mo6zbzRI6MbfJoYps9-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;AD 26Q4 + 27Q1 - Deliver a safe, sustainable, and modular product&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="1910" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-22" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LTS (Releases)" vertex="1">
+          <mxGeometry height="60" width="120" x="475" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-38" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Dev/Main&lt;/div&gt;&lt;div&gt;(SBT/CB)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1665" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-29" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-35" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-41" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-43" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-45" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Fleet" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-24" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Bugs" vertex="1">
+          <mxGeometry height="60" width="120" x="965" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Containerization" vertex="1">
+          <mxGeometry height="60" width="120" x="1925" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-14" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-46" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-47" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-48" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-49" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-50" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-51" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mo6zbzRI6MbfJoYps9-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="AutoDrive Improvements" vertex="1">
+          <mxGeometry height="60" width="120" x="1315" y="380" as="geometry" />
+        </mxCell>
+        <UserObject label="Q4 2027 + Q1 2027 Objectives PI Planning" link="https://rr.sharepoint.us/:p:/r/teams/ENG-Perception/_layouts/15/Doc.aspx?sourcedoc=%7B0F1FDE41-881D-43D3-9F13-B2A27C7A0210%7D&amp;file=AutoDrive%20Q4%202026%20%20%20Q1%202027%20Objectives%20PI%20Planning%20-%20Revised.pptx&amp;fromShare=true&amp;action=edit&amp;mobileredirect=true" id="44mo6zbzRI6MbfJoYps9-37">
+          <mxCell parent="1" style="text;whiteSpace=wrap;fontStyle=4;fontColor=light-dark(#62a0ea, #ededed);" vertex="1">
+            <mxGeometry height="30" width="240" x="1450" y="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-6" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="44mo6zbzRI6MbfJoYps9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-15" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-16" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-17" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-18" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-19" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Monitoring" vertex="1">
+          <mxGeometry height="60" width="120" x="1315" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Local Annealyzer/Botalyzer" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="FUF Monitor: ties to RRmonitor" vertex="1">
+          <mxGeometry height="60" width="120" x="1145" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" value="&lt;div&gt;DBW Monitor:&lt;/div&gt;&lt;div&gt;- grab all DBW info when in auto and display&lt;/div&gt;&lt;div&gt;- compatibility matrix&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="1290" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="RRmonitor rework" vertex="1">
+          <mxGeometry height="60" width="120" x="1485" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Perf Monitor: ties to RRmonitor" vertex="1">
+          <mxGeometry height="60" width="120" x="1630" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Install bot-specific configs only" vertex="1">
+          <mxGeometry height="60" width="120" x="1390" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Release fewer unfinished releases" vertex="1">
+          <mxGeometry height="60" width="120" x="475" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-32" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Jira ticket triage skill" vertex="1">
+          <mxGeometry height="60" width="120" x="965" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Improve time sync" vertex="1">
+          <mxGeometry height="60" width="120" x="1530" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Config file manager" vertex="1">
+          <mxGeometry height="60" width="120" x="1460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Syntax checks for configs/scripts" vertex="1">
+          <mxGeometry height="60" width="120" x="1100" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Define commissioning completeness" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Drive fullness notification at end of install" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Improve backlog refinement" vertex="1">
+          <mxGeometry height="60" width="120" x="965" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Decouple config and calibration" vertex="1">
+          <mxGeometry height="60" width="120" x="1240" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Less fire-fighting" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Smoother uploaders and data flow" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-39" edge="1" parent="1" source="c2HvZLsSs02Ca1kJh2SQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2HvZLsSs02Ca1kJh2SQ-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Data/C3 Support" vertex="1">
+          <mxGeometry height="60" width="120" x="1665" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Hire more operators, test engineers, integration people" vertex="1">
+          <mxGeometry height="80" width="135" x="620" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Rework test cases that slow execution" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-52" edge="1" parent="1" source="44mo6zbzRI6MbfJoYps9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c2HvZLsSs02Ca1kJh2SQ-44" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="410" as="sourcePoint" />
+            <mxPoint x="910" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2HvZLsSs02Ca1kJh2SQ-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Run all regressions in sim" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
